@@ -1,0 +1,95 @@
+h4 {
+    margin: 0px;
+    padding: 10px;
+}
+
+.margin-top-30 {
+    margin-top: 30px;
+}
+
+.color-FFF {
+    color: #FFFFFF;
+}
+
+
+.space-around {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.width-auto {
+    width: 100%;
+}
+
+.padding-12px-15px {
+    padding: 12px 15px;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.width-200px {
+    width: 200px;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.bgcolor-eee {
+    background-color: #eeeeee;
+
+}
+
+.bgcolor-eea63a {
+    background-color: #eea63a;
+}
+
+.bgcolor-f9f9f9 {
+    background-color: #f9f9f9;
+}
+
+.bgcolor-f2f2f2 {
+    background-color: #f2f2f2;
+}
+
+.align-left {
+    align-self: left;
+}
+
+.Registration-style-1 {
+    padding: 0px auto;
+}
+
+.form-border-style {
+    margin: 0 auto;
+    width: 495px;
+    border: 1px solid #f2f2f2;
+}
+
+
+.ReadTagID-style-1 {
+    border: 1px solid #eea63a;
+    margin: 30px auto 0px auto;
+}
+
+.ReadTagID-style-2 {
+    height: 40px;
+    align-self: center;
+}
+
+.UserDataUpdate-style-1 {
+    margin: 0 auto;
+    width: 495px;
+   
+}
+
+.ReadTagID-style-3 {}
+
+.ReadTagID-style-4 {}
+
+.ReadTagID-style-5 {}
