@@ -23,7 +23,7 @@ export default function UserDataUpdate() {
     }
 
     const sendData = async (updateStudent) => {
-        const response = await fetch("/api/UserData", {
+        const response = await fetch(`${window.location.origin}/api/UserData`, {
             method: 'POST',
             headers: {
                 'Accept': 'application/json',
