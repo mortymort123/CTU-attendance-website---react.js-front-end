@@ -1,2 +1,2 @@
-# CTU-attendance-website---react.js-front-end
-front end code for CTU Smart Information and Attendance System
+# CTU-attendance-website-front-end
+react.js code for front-end of CTU Smart Information and Attendance System
